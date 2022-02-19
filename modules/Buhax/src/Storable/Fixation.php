@@ -39,7 +39,8 @@ class Fixation extends StorableExtended
         } else {
             $startDate = Date::min(
                 $firstUnfixedIncome,
-                $firstUnfixedOutgoing
+                $firstUnfixedOutgoing,
+                "now"
             );
             $startDate->dateTime->setDayOfMonth(1);
         }
