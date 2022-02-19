@@ -1,0 +1,13 @@
+{
+  "name": "buhax",
+  "description": "Buhax",
+  "version": "0.1.0",
+  "framelix": {
+    "module": "Buhax",
+    "release": {
+      "exclude": [
+        "^/public/uploads"
+      ]
+    }
+  }
+}

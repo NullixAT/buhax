@@ -1,0 +1,9 @@
+[submodule "modules/Framelix"]
+	path = modules/Framelix
+	url = https://github.com/NullixAT/framelix-core.git
+[submodule "modules/Pdf"]
+	path = modules/Pdf
+	url = https://github.com/NullixAT/framelix-tcpdf.git
+[submodule "modules/PhpSpreadsheet"]
+	path = modules/PhpSpreadsheet
+	url = https://github.com/NullixAT/framelix-phpspreadsheet.git

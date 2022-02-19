@@ -1,0 +1,419 @@
+{
+    "__buhax_configuration_module_general_pagetitle__": [
+        "General"
+    ],
+    "__buhax_modulename__": [
+        "Buhax"
+    ],
+    "__buhax_pdf_invoice_category_1_title__": [
+        "Invoice Nr. {nr}"
+    ],
+    "__buhax_pdf_invoice_category_2_title__": [
+        "Offer Nr. {nr}"
+    ],
+    "__buhax_pdf_invoice_credit__": [
+        "Credit"
+    ],
+    "__buhax_pdf_invoice_paid__": [
+        "Thank you. You have already payed this invoice on {date}."
+    ],
+    "__buhax_pdf_invoice_qr__": [
+        "You can scan this QR code with your banking app"
+    ],
+    "__buhax_pdf_invoice_receiver_vatid__": [
+        "Your Vat-ID"
+    ],
+    "__buhax_pdf_invoice_total_net__": [
+        "Total"
+    ],
+    "__buhax_search_option_choose_fixation__": [
+        "Fixations \/ Filters"
+    ],
+    "__buhax_search_option_noclosed__": [
+        "Only entries that are not closed"
+    ],
+    "__buhax_search_option_nofixation__": [
+        "Only entries without fixation"
+    ],
+    "__buhax_storable_depreciation_attachments_label__": [
+        "Attachments"
+    ],
+    "__buhax_storable_depreciation_comment_label__": [
+        "Comment\/Invoice Nr"
+    ],
+    "__buhax_storable_depreciation_createoutgoing__": [
+        "Create outgoing based on the annual depreciation for this entry"
+    ],
+    "__buhax_storable_depreciation_date_label__": [
+        "Date"
+    ],
+    "__buhax_storable_depreciation_flagdone_label__": [
+        "Closed"
+    ],
+    "__buhax_storable_depreciation_netsplit_label__": [
+        "Annual depreciation"
+    ],
+    "__buhax_storable_depreciation_netsplit_label_value__": [
+        "Amount"
+    ],
+    "__buhax_storable_depreciation_netsplit_label_year__": [
+        "Year"
+    ],
+    "__buhax_storable_depreciation_nettotal_label__": [
+        "Amount"
+    ],
+    "__buhax_storable_depreciation_years_label__": [
+        "Accounting depreciation in years"
+    ],
+    "__buhax_storable_fixation_datefrom_label__": [
+        "Date from"
+    ],
+    "__buhax_storable_fixation_dateto_label__": [
+        "Date to"
+    ],
+    "__buhax_storable_income_attachments_label__": [
+        "Attachments"
+    ],
+    "__buhax_storable_income_comment_label__": [
+        "Comment"
+    ],
+    "__buhax_storable_income_copy__": [
+        "Open a new entry with prefilled data from this invoice (Softcopy)"
+    ],
+    "__buhax_storable_income_date_label__": [
+        "Date income"
+    ],
+    "__buhax_storable_income_download_invoice__": [
+        "Invoice download"
+    ],
+    "__buhax_storable_income_incomecategory_label__": [
+        "Income category"
+    ],
+    "__buhax_storable_income_net_label__": [
+        "Amount"
+    ],
+    "__buhax_storable_income_receiptnumber_label__": [
+        "Nr"
+    ],
+    "__buhax_storable_invoice_copied__": [
+        "Copied. You can now edit the entry."
+    ],
+    "__buhax_storable_invoice_copy__": [
+        "Copy\/Clone this entry"
+    ],
+    "__buhax_storable_invoice_copy_label__": [
+        "Copy"
+    ],
+    "__buhax_storable_invoice_createincome__": [
+        "Create income based on this invoice"
+    ],
+    "__buhax_storable_invoice_date_label__": [
+        "Date"
+    ],
+    "__buhax_storable_invoice_datepaid_label__": [
+        "Date paid"
+    ],
+    "__buhax_storable_invoice_deleteinvoice_label__": [
+        "Delete Original PDF Invoice"
+    ],
+    "__buhax_storable_invoice_deleteinvoice_label_desc__": [
+        "Once you have downloaded the original PDF file, you cannot change the original PDF file unless you delete it explicetely here"
+    ],
+    "__buhax_storable_invoice_download__": [
+        "PDF Download"
+    ],
+    "__buhax_storable_invoice_download_copy__": [
+        "Download Copy"
+    ],
+    "__buhax_storable_invoice_download_custom__": [
+        "Download Custom (Payment reminder, etc...)"
+    ],
+    "__buhax_storable_invoice_download_label__": [
+        "Select invoice type"
+    ],
+    "__buhax_storable_invoice_download_original__": [
+        "Download Original"
+    ],
+    "__buhax_storable_invoice_download_preview__": [
+        "Download Preview"
+    ],
+    "__buhax_storable_invoice_income_created__": [
+        "Successfully created income from invoice"
+    ],
+    "__buhax_storable_invoice_income_label__": [
+        "Assigned income"
+    ],
+    "__buhax_storable_invoice_income_label_desc__": [
+        "You cannot edit this assignment and you cannot edit this invoice anymore because you have generated an income entry out of this invoice.\n<br\/>\nYou have to delete the income entry to remove this assignment.<br\/>\nOnly when this invoice is not assigned to an income, you are able to delete or modify the invoice."
+    ],
+    "__buhax_storable_invoice_invoicenr_label__": [
+        "Invoice number"
+    ],
+    "__buhax_storable_invoice_net_label__": [
+        "Sum"
+    ],
+    "__buhax_storable_invoice_offfertoinvoice__": [
+        "Create an invoice based on this offer"
+    ],
+    "__buhax_storable_invoice_performanceperiod_label__": [
+        "Performance date \/ period"
+    ],
+    "__buhax_storable_invoice_positions_label__": [
+        "Positions"
+    ],
+    "__buhax_storable_invoice_preview_changed_before__": [
+        "Save changes before previewing"
+    ],
+    "__buhax_storable_invoice_preview_label__": [
+        "Preview"
+    ],
+    "__buhax_storable_invoice_receiver_label__": [
+        "Receiver full name and address"
+    ],
+    "__buhax_storable_invoice_receivervatid_label__": [
+        "Receiver Vat-Id"
+    ],
+    "__buhax_storable_invoice_textafterposition_label__": [
+        "Text after positions"
+    ],
+    "__buhax_storable_invoice_textbeforeposition_label__": [
+        "Text before positions"
+    ],
+    "__buhax_storable_invoice_title_label__": [
+        "Additional Invoice Title (Payment Reminder, etc...)"
+    ],
+    "__buhax_storable_invoiceposition_comment_label__": [
+        "Text"
+    ],
+    "__buhax_storable_invoiceposition_count_label__": [
+        "Count"
+    ],
+    "__buhax_storable_invoiceposition_netsingle_label__": [
+        "Price per unit"
+    ],
+    "__buhax_storable_outgoing_attachments_label__": [
+        "Attachments"
+    ],
+    "__buhax_storable_outgoing_comment_label__": [
+        "Comment\/Invoice Nr"
+    ],
+    "__buhax_storable_outgoing_created_from_depreciation__": [
+        "Successfully created outgoing from annual depreciation"
+    ],
+    "__buhax_storable_outgoing_date_label__": [
+        "Date outgoing"
+    ],
+    "__buhax_storable_outgoing_net_label__": [
+        "Amount"
+    ],
+    "__buhax_storable_outgoing_netoperational_label__": [
+        "Amount operational"
+    ],
+    "__buhax_storable_outgoing_operationalsharepercent_label__": [
+        "Operational share in percent"
+    ],
+    "__buhax_storable_outgoing_operationalsharepercent_label_desc__": [
+        "Use 100% if you want to use all of the outgoing amount for your business"
+    ],
+    "__buhax_storable_outgoing_outgoingcategory_label__": [
+        "Outgoing category"
+    ],
+    "__buhax_storable_outgoing_receiptnumber_label__": [
+        "Nr"
+    ],
+    "__buhax_storable_systemvalue_incomecategory_name_label__": [
+        "Name"
+    ],
+    "__buhax_storable_systemvalue_incomecategory_summarykeys_label__": [
+        "Summary keys"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_accountname_label__": [
+        "Full name of bank account owner"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_address_label__": [
+        "Full name and address"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_bic_label__": [
+        "BIC"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_iban_label__": [
+        "IBAN"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_invoicefooter_label__": [
+        "Footer image"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_invoicefooter_label_desc__": [
+        "Max. 1000x150 - Keep filesize low, bellow 10kb if possible"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_invoiceheader_label__": [
+        "Header image"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_invoiceheader_label_desc__": [
+        "Max. 1000x150 - Keep filesize low, bellow 10kb if possible"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_invoicetextafterpositions_label__": [
+        "Fixed text in invoice after position"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_invoicetextafterpositions_label_desc__": [
+        "Fill out when you always want to append this text in invoice after positions"
+    ],
+    "__buhax_storable_systemvalue_invoicecreator_vatid_label__": [
+        "Vat-Id"
+    ],
+    "__buhax_storable_systemvalue_outgoingcategory_name_label__": [
+        "Name"
+    ],
+    "__buhax_storable_systemvalue_outgoingcategory_operationalsharepercent_label__": [
+        "Operational share in percent"
+    ],
+    "__buhax_storable_systemvalue_outgoingcategory_operationalsharepercent_label_desc__": [
+        "Use 100% if you want to use all of the outgoing amount for your business"
+    ],
+    "__buhax_storable_systemvalue_outgoingcategory_summarykeys_label__": [
+        "Summary keys"
+    ],
+    "__buhax_storable_systemvalue_summarykey_incomecategory_label__": [
+        "Income summary method"
+    ],
+    "__buhax_storable_systemvalue_summarykey_key_label__": [
+        "Key"
+    ],
+    "__buhax_storable_systemvalue_summarykey_name_label__": [
+        "Info"
+    ],
+    "__buhax_storable_systemvalue_summarykey_outgoingcategory_label__": [
+        "Outgoing summary method"
+    ],
+    "__buhax_storable_systemvalue_summarykey_summary_method_1__": [
+        "Add"
+    ],
+    "__buhax_storable_systemvalue_summarykey_summary_method_2__": [
+        "Substract"
+    ],
+    "__buhax_view_backend_systemvalue_incomecategory__": [
+        "Incoming categories"
+    ],
+    "__buhax_view_backend_systemvalue_invoicecreator__": [
+        "Invoice accountant"
+    ],
+    "__buhax_view_backend_systemvalue_outgoingcategory__": [
+        "Outgoing categories"
+    ],
+    "__buhax_view_backend_systemvalue_summarykey__": [
+        "Summary keys"
+    ],
+    "__buhax_view_depreciation__": [
+        "Accounting depreciation"
+    ],
+    "__buhax_view_depreciation_create__": [
+        "Basic data"
+    ],
+    "__buhax_view_depreciation_years__": [
+        "Annual depreciation"
+    ],
+    "__buhax_view_fixations__": [
+        "Fixations"
+    ],
+    "__buhax_view_fixations_create__": [
+        "Create a new fixation"
+    ],
+    "__buhax_view_fixations_created__": [
+        "Fixation stored"
+    ],
+    "__buhax_view_fixations_desc__": [
+        "Fixations will give each income\/outgoing an unique ascending number which is required by most finance institutes.\nYou can fixate data as often as you want, but it is recommended to do it monthly, as soon as you have entered all data of a month."
+    ],
+    "__buhax_view_fixations_list__": [
+        "List"
+    ],
+    "__buhax_view_incomes__": [
+        "Incomings"
+    ],
+    "__buhax_view_index__": [
+        "Buhax - Accounting software for small business owners"
+    ],
+    "__buhax_view_invoice_category_1__": [
+        "Invoices"
+    ],
+    "__buhax_view_invoice_category_2__": [
+        "Offers"
+    ],
+    "__buhax_view_invoices_create__": [
+        "Basic data"
+    ],
+    "__buhax_view_outgoings__": [
+        "Outgoings"
+    ],
+    "__buhax_view_report_better_incomes__": [
+        "Better - More incomes"
+    ],
+    "__buhax_view_report_better_outgoings__": [
+        "Better - Less outgoings"
+    ],
+    "__buhax_view_report_better_profitloss__": [
+        "Better"
+    ],
+    "__buhax_view_report_compared_to__": [
+        "Compared to period {0}"
+    ],
+    "__buhax_view_report_loss__": [
+        "Loss"
+    ],
+    "__buhax_view_report_profit__": [
+        "Profit"
+    ],
+    "__buhax_view_report_profitloss__": [
+        "Profit - Loss"
+    ],
+    "__buhax_view_report_total__": [
+        "Sum"
+    ],
+    "__buhax_view_report_worse_incomes__": [
+        "Worse - Less incomes"
+    ],
+    "__buhax_view_report_worse_outgoings__": [
+        "Worse - Higher outgoings"
+    ],
+    "__buhax_view_report_worse_profitloss__": [
+        "Worse"
+    ],
+    "__buhax_view_reports__": [
+        "Reports"
+    ],
+    "__buhax_view_reports_custom__": [
+        "Choose a period"
+    ],
+    "__buhax_view_reports_datefrom__": [
+        "Date from"
+    ],
+    "__buhax_view_reports_dateto__": [
+        "Date to"
+    ],
+    "__buhax_view_reports_generate__": [
+        "Generate report and charts"
+    ],
+    "__buhax_view_reports_generate_excel__": [
+        "Download all numbers as excel report"
+    ],
+    "__buhax_view_reports_lastmonth__": [
+        "Last month"
+    ],
+    "__buhax_view_reports_lastquarter__": [
+        "Last quarter"
+    ],
+    "__buhax_view_reports_lastyear__": [
+        "Last year"
+    ],
+    "__buhax_view_reports_thismonth__": [
+        "Current month"
+    ],
+    "__buhax_view_reports_thisquarter__": [
+        "Current quarter"
+    ],
+    "__buhax_view_reports_thisyear__": [
+        "Current year"
+    ],
+    "__framelix_config_moneyunit_label__": [
+        "Currency (\u20ac, $, etc...)"
+    ]
+}

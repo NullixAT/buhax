@@ -1,0 +1,149 @@
+{
+    "directoryListHash": "1|2552869683",
+    "views": {
+        "Framelix\\Buhax\\View\\Backend\\SystemValue\\IncomeCategory": {
+            "accessRole": "admin",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/backend\/systemvalue\/incomecategory"
+        },
+        "Framelix\\Buhax\\View\\Backend\\SystemValue\\InvoiceCreator": {
+            "accessRole": "admin",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/backend\/systemvalue\/invoicecreator"
+        },
+        "Framelix\\Buhax\\View\\Backend\\SystemValue\\OutgoingCategory": {
+            "accessRole": "admin",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/backend\/systemvalue\/outgoingcategory"
+        },
+        "Framelix\\Buhax\\View\\Backend\\SystemValue\\SummaryKey": {
+            "accessRole": "admin",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/backend\/systemvalue\/summarykey"
+        },
+        "Framelix\\Buhax\\View\\Depreciation": {
+            "accessRole": "admin,depreciation",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/depreciation"
+        },
+        "Framelix\\Buhax\\View\\Fixations": {
+            "accessRole": "admin,fixation",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/fixations"
+        },
+        "Framelix\\Buhax\\View\\Incomes": {
+            "accessRole": "admin,income",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/incomes"
+        },
+        "Framelix\\Buhax\\View\\Index": {
+            "accessRole": true,
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": ""
+        },
+        "Framelix\\Buhax\\View\\InvoicePositions": {
+            "accessRole": "admin,invoice-{category}",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/invoicepositions"
+        },
+        "Framelix\\Buhax\\View\\Invoices": {
+            "accessRole": "admin,invoice-{category}",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/invoices"
+        },
+        "Framelix\\Buhax\\View\\Outgoings": {
+            "accessRole": "admin,outgoing",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/outgoings"
+        },
+        "Framelix\\Buhax\\View\\Reports": {
+            "accessRole": "admin,reports",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/reports"
+        },
+        "Framelix\\Buhax\\View\\SystemValue\\IncomeCategory": {
+            "accessRole": "admin",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/systemvalue\/incomecategory"
+        },
+        "Framelix\\Buhax\\View\\SystemValue\\InvoiceCreator": {
+            "accessRole": "admin",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/systemvalue\/invoicecreator"
+        },
+        "Framelix\\Buhax\\View\\SystemValue\\OutgoingCategory": {
+            "accessRole": "admin",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/systemvalue\/outgoingcategory"
+        },
+        "Framelix\\Buhax\\View\\SystemValue\\SummaryKey": {
+            "accessRole": "admin",
+            "customUrl": null,
+            "devModeOnly": false,
+            "multilanguage": true,
+            "urlPriority": 0,
+            "pageTitle": "{classLangKey}",
+            "url": "\/systemvalue\/summarykey"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+.buhax-tag,
+.buhax-tag:any-link {
+  font-size: 0.9rem;
+  line-height: 1;
+  white-space: nowrap;
+  padding: 2px 5px;
+  color: white;
+  border-radius: 100px;
+  background: rgba(0, 0, 0, 0.15);
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  width: 100%;
+  justify-content: center;
+  box-sizing: border-box;
+  margin-bottom: 2px;
+}
