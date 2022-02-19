@@ -10,9 +10,7 @@
     "url": "git+https://github.com/NullixAT/buhax.git"
   },
   "keywords": [
-    "php",
-    "framework",
-    "fullstack"
+    "accounting"
   ],
   "author": "BrainFooLong",
   "license": "MIT",
@@ -24,7 +22,9 @@
     "isRootPackage": true,
     "builtInModules": [
       "Framelix",
-      "Buhax"
+      "Buhax",
+      "Pdf",
+      "PhpSpreadsheet"
     ]
   }
 }
