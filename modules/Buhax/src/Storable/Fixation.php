@@ -41,6 +41,9 @@ class Fixation extends StorableExtended
                 $firstUnfixedIncome,
                 $firstUnfixedOutgoing
             );
+            if(!$startDate){
+                $startDate = Date::create('now');
+            }
             $startDate->dateTime->setDayOfMonth(1);
         }
         $lastDate = Date::max(

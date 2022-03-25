@@ -245,8 +245,13 @@ class Invoices extends View
                 break;
             default:
                 $tabs = new Tabs();
-                $tabs->addTab('create', '__buhax_view_invoices_create__', new self());
-                $tabs->addTab('positions', '__buhax_storable_invoice_positions_label__', new InvoicePositions());
+                $tabs->addTab('create', '__buhax_view_invoices_create__', new self(), cardContentLayout: false);
+                $tabs->addTab(
+                    'positions',
+                    '__buhax_storable_invoice_positions_label__',
+                    new InvoicePositions(),
+                    cardContentLayout: false
+                );
                 $tabs->show();
         }
     }

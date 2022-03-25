@@ -90,8 +90,8 @@ class Depreciation extends View
                 break;
             default:
                 $tabs = new Tabs();
-                $tabs->addTab('create', '__buhax_view_depreciation_create__', new self());
-                $tabs->addTab('years', '__buhax_view_depreciation_years__', new self());
+                $tabs->addTab('create', '__buhax_view_depreciation_create__', new self(), cardContentLayout: false);
+                $tabs->addTab('years', '__buhax_view_depreciation_years__', new self(), cardContentLayout: false);
                 $tabs->show();
         }
     }
