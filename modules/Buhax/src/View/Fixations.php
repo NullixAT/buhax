@@ -141,8 +141,8 @@ class Fixations extends View
                 <p><?= Lang::get('__buhax_view_fixations_desc__') ?></p>
                 <?php
                 $tabs = new Tabs();
-                $tabs->addTab('list', '__buhax_view_fixations_list__', new self(), cardContentLayout: false);
-                $tabs->addTab('create', '__buhax_view_fixations_create__', new self(), cardContentLayout: false);
+                $tabs->addTab('list', '__buhax_view_fixations_list__', new self());
+                $tabs->addTab('create', '__buhax_view_fixations_create__', new self());
                 $tabs->show();
         }
     }

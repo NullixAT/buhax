@@ -5,6 +5,7 @@ namespace Framelix\Buhax\Storable;
 use Framelix\Framelix\Html\TableCell;
 use Framelix\Framelix\Lang;
 use Framelix\Framelix\Storable\StorableFile;
+use Framelix\Framelix\Utils\HtmlUtils;
 
 /**
  * Attachment
@@ -36,8 +37,8 @@ class Attachment extends StorableFile
         if (!$downloadUrl) {
             return '';
         }
-        return '<a href="' . $downloadUrl . '" class="buhax-tag" title="' . Lang::get(
+        return '<a href="' . $downloadUrl . '" class="buhax-attachment" title="' . Lang::get(
                 '__framelix_download_file__'
-            ) . ": " . $this->filename . '"><span class="material-icons">download</span></a>';
+            ) . ": " . $this->filename . '">'.HtmlUtils::escape($this->filename).'</a>';
     }
 }
