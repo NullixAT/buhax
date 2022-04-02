@@ -1,7 +1,7 @@
 {
   "name": "buhax",
   "description": "Buhax - Accounting software for small companies without VAT.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "directories": {
     "doc": "docs"
   },
