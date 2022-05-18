@@ -1,30 +1,12 @@
 {
   "name": "buhax",
   "description": "Buhax - Accounting software for small companies without VAT.",
-  "version": "0.2.0",
-  "directories": {
-    "doc": "docs"
-  },
+  "version": "1.0.0-alpha.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NullixAT/buhax.git"
   },
-  "keywords": [
-    "accounting"
-  ],
   "author": "BrainFooLong",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/NullixAT/buhax/issues"
-  },
-  "homepage": "https://github.com/NullixAT/buhax#readme",
-  "framelix": {
-    "isRootPackage": true,
-    "builtInModules": [
-      "Framelix",
-      "Buhax",
-      "Pdf",
-      "PhpSpreadsheet"
-    ]
-  }
+  "homepage": "https://github.com/NullixAT/buhax"
 }

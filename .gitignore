@@ -7,3 +7,4 @@ modules/*
 !modules/Buhax
 !modules/Pdf
 !modules/PhpSpreadsheet
+package-lock.json

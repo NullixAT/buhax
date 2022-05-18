@@ -1,0 +1,12 @@
+on: [ workflow_dispatch ]
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    name: Creating release
+    steps:
+      - name: Creating release
+        id: release
+        uses: NullixAT/framelix-release@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
