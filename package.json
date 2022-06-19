@@ -1,7 +1,7 @@
 {
   "name": "buhax",
   "description": "Buhax - Accounting software for small companies without VAT.",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NullixAT/buhax.git"
