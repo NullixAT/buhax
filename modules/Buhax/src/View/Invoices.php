@@ -161,7 +161,7 @@ class Invoices extends View
             $this->pageTitle = $this->storable->getRawTextString();
         }
 
-        if (Request::getPost('pdf-download') || Request::getGet('pdf-download')) {
+        if (Request::getPost('framelix-form-button-pdf-download') || Request::getGet('framelix-form-button-pdf-download')) {
             $type = Request::getPost('type') ?? Request::getGet('type');
             if (str_starts_with($type, 'attachment-')) {
                 $index = substr($type, 11);
